@@ -20,7 +20,7 @@ public class MainClass {
 		//static사용방법
 		Math.random();
 		Integer.parseInt("3");
-		Arrays.toString(arr[3]);
+//		Arrays.toString(arr[3]);
 		
 	}
 	
